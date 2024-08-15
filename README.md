@@ -1,5 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Pedro Henrique Matos Neves
 
+<ul>
+   <li>Estou estudando na Alura</li>
+   <li>Estou me desenvolvendo na linguagem JavaScript</li>
+   <li>Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos</li>
+</ul>
+
+<h3>Você pode entrar em contato comigo 📫</h3>
+
+0000111854349XSP@al.educacao.sp.gov.br
 <!--
 **PedroHMN1C/PedroHMN1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
