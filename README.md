@@ -10,6 +10,9 @@ Meu nome é Pedro Henrique Matos Neves
 <h3>Você pode entrar em contato comigo 📫</h3>
 
 0000111854349XSP@al.educacao.sp.gov.br
+
+![link](https://media.tenor.com/dutdoOw7PjsAAAAi/happy-cat.gif)
+
 <!--
 **PedroHMN1C/PedroHMN1C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
